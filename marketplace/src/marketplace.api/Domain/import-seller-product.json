@@ -1,0 +1,1885 @@
+[
+{
+"Id": "a1b2c3d4-e5f6-4a5b-8c9d-0e1f2a3b4c5d",
+"SellerName": "MegaStore",
+"Name": "Smartphone Galaxy S23",
+"Brand": "Samsung",
+"Category": "Electronics"
+},
+{
+"Id": "b2c3d4e5-f6a7-4b5c-9d0e-1f2a3b4c5d6e",
+"SellerName": "TechWorld",
+"Name": "iPhone 15 Pro",
+"Brand": "Apple",
+"Category": "Electronics"
+},
+{
+"Id": "c3d4e5f6-a7b8-4c5d-0e1f-2a3b4c5d6e7f",
+"SellerName": "ElectroHub",
+"Name": "Notebook Dell Inspiron",
+"Brand": "Dell",
+"Category": "Computers"
+},
+{
+"Id": "d4e5f6a7-b8c9-4d5e-1f2a-3b4c5d6e7f8a",
+"SellerName": "GadgetZone",
+"Name": "MacBook Air M2",
+"Brand": "Apple",
+"Category": "Computers"
+},
+{
+"Id": "e5f6a7b8-c9d0-4e5f-2a3b-4c5d6e7f8a9b",
+"SellerName": "SuperMart",
+"Name": "Mouse Logitech MX Master",
+"Brand": "Logitech",
+"Category": "Accessories"
+},
+{
+"Id": "f6a7b8c9-d0e1-4f5a-3b4c-5d6e7f8a9b0c",
+"SellerName": "SportsHub",
+"Name": "Keyboard Mechanical RGB",
+"Brand": "Corsair",
+"Category": "Accessories"
+},
+{
+"Id": "a7b8c9d0-e1f2-4a5b-4c5d-6e7f8a9b0c1d",
+"SellerName": "HomeGoods",
+"Name": "Monitor LG UltraWide 34\"",
+"Brand": "LG",
+"Category": "Monitors"
+},
+{
+"Id": "b8c9d0e1-f2a3-4b5c-5d6e-7f8a9b0c1d2e",
+"SellerName": "FurnitureWorld",
+"Name": "Headphones Sony WH-1000XM5",
+"Brand": "Sony",
+"Category": "Audio"
+},
+{
+"Id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+"SellerName": "AudioPro",
+"Name": "Smart TV Samsung 55\"",
+"Brand": "Samsung",
+"Category": "Electronics"
+},
+{
+"Id": "d0e1f2a3-b4c5-4d5e-7f8a-9b0c1d2e3f4a",
+"SellerName": "GamingStore",
+"Name": "PlayStation 5 Console",
+"Brand": "Sony",
+"Category": "Gaming"
+},
+{
+"Id": "e1f2a3b4-c5d6-4e5f-8a9b-0c1d2e3f4a5b",
+"SellerName": "FitnessCenter",
+"Name": "Xbox Series X",
+"Brand": "Microsoft",
+"Category": "Gaming"
+},
+{
+"Id": "f2a3b4c5-d6e7-4f5a-9b0c-1d2e3f4a5b6c",
+"SellerName": "HealthStore",
+"Name": "Nintendo Switch OLED",
+"Brand": "Nintendo",
+"Category": "Gaming"
+},
+{
+"Id": "a3b4c5d6-e7f8-4a5b-0c1d-2e3f4a5b6c7d",
+"SellerName": "OutdoorGear",
+"Name": "Tablet iPad Pro 12.9\"",
+"Brand": "Apple",
+"Category": "Tablets"
+},
+{
+"Id": "b4c5d6e7-f8a9-4b5c-1d2e-3f4a5b6c7d8e",
+"SellerName": "KitchenPlus",
+"Name": "Samsung Galaxy Tab S9",
+"Brand": "Samsung",
+"Category": "Tablets"
+},
+{
+"Id": "c5d6e7f8-a9b0-4c5d-2e3f-4a5b6c7d8e9f",
+"SellerName": "OfficeSupply",
+"Name": "Smartwatch Apple Watch Series 9",
+"Brand": "Apple",
+"Category": "Wearables"
+},
+{
+"Id": "d6e7f8a9-b0c1-4d5e-3f4a-5b6c7d8e9f0a",
+"SellerName": "GardenStore",
+"Name": "Fitbit Charge 6",
+"Brand": "Fitbit",
+"Category": "Wearables"
+},
+{
+"Id": "e7f8a9b0-c1d2-4e5f-4a5b-6c7d8e9f0a1b",
+"SellerName": "CleaningWorld",
+"Name": "Camera Canon EOS R6",
+"Brand": "Canon",
+"Category": "Photography"
+},
+{
+"Id": "f8a9b0c1-d2e3-4f5a-5b6c-7d8e9f0a1b2c",
+"SellerName": "FootwearHub",
+"Name": "GoPro Hero 12",
+"Brand": "GoPro",
+"Category": "Photography"
+},
+{
+"Id": "a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3d",
+"SellerName": "AccessoryWorld",
+"Name": "Drone DJI Mavic 3",
+"Brand": "DJI",
+"Category": "Photography"
+},
+{
+"Id": "b0c1d2e3-f4a5-4b5c-7d8e-9f0a1b2c3d4e",
+"SellerName": "SmartHomeStore",
+"Name": "Router WiFi 6 TP-Link",
+"Brand": "TP-Link",
+"Category": "Networking"
+},
+{
+"Id": "c1d2e3f4-a5b6-4c5d-8e9f-0a1b2c3d4e5f",
+"SellerName": "MegaStore",
+"Name": "External SSD Samsung 2TB",
+"Brand": "Samsung",
+"Category": "Storage"
+},
+{
+"Id": "d2e3f4a5-b6c7-4d5e-9f0a-1b2c3d4e5f6a",
+"SellerName": "TechWorld",
+"Name": "USB Flash Drive 128GB",
+"Brand": "SanDisk",
+"Category": "Storage"
+},
+{
+"Id": "e3f4a5b6-c7d8-4e5f-0a1b-2c3d4e5f6a7b",
+"SellerName": "ElectroHub",
+"Name": "Portable Charger Anker 20000mAh",
+"Brand": "Anker",
+"Category": "Accessories"
+},
+{
+"Id": "f4a5b6c7-d8e9-4f5a-1b2c-3d4e5f6a7b8c",
+"SellerName": "GadgetZone",
+"Name": "Wireless Earbuds AirPods Pro",
+"Brand": "Apple",
+"Category": "Audio"
+},
+{
+"Id": "a5b6c7d8-e9f0-4a5b-2c3d-4e5f6a7b8c9d",
+"SellerName": "SuperMart",
+"Name": "Bluetooth Speaker JBL Flip 6",
+"Brand": "JBL",
+"Category": "Audio"
+},
+{
+"Id": "b6c7d8e9-f0a1-4b5c-3d4e-5f6a7b8c9d0e",
+"SellerName": "SportsHub",
+"Name": "Graphics Card RTX 4080",
+"Brand": "NVIDIA",
+"Category": "Components"
+},
+{
+"Id": "c7d8e9f0-a1b2-4c5d-4e5f-6a7b8c9d0e1f",
+"SellerName": "HomeGoods",
+"Name": "Processor AMD Ryzen 9 7950X",
+"Brand": "AMD",
+"Category": "Components"
+},
+{
+"Id": "d8e9f0a1-b2c3-4d5e-5f6a-7b8c9d0e1f2a",
+"SellerName": "FurnitureWorld",
+"Name": "Motherboard ASUS ROG",
+"Brand": "ASUS",
+"Category": "Components"
+},
+{
+"Id": "e9f0a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3b",
+"SellerName": "AudioPro",
+"Name": "RAM Corsair 32GB DDR5",
+"Brand": "Corsair",
+"Category": "Components"
+},
+{
+"Id": "f0a1b2c3-d4e5-4f5a-7b8c-9d0e1f2a3b4c",
+"SellerName": "GamingStore",
+"Name": "Power Supply EVGA 850W",
+"Brand": "EVGA",
+"Category": "Components"
+},
+{
+"Id": "11223344-5566-4778-8990-0aabbccddeef",
+"SellerName": "FitnessCenter",
+"Name": "Smartphone  Galaxy S23",
+"Brand": "Samsung",
+"Category": "Electronics"
+},
+{
+"Id": "22334455-6677-4889-9001-1bbccddeeff0",
+"SellerName": "HealthStore",
+"Name": "iPhone 15  Pro",
+"Brand": "Apple",
+"Category": "Electronics"
+},
+{
+"Id": "33445566-7788-4990-0112-2ccddeeff011",
+"SellerName": "OutdoorGear",
+"Name": "Laptop ASUS ZenBook 14",
+"Brand": "ASUS",
+"Category": "Computers"
+},
+{
+"Id": "44556677-8899-4001-1223-3ddeeff01122",
+"SellerName": "KitchenPlus",
+"Name": "Gaming Laptop MSI Raider",
+"Brand": "MSI",
+"Category": "Computers"
+},
+{
+"Id": "55667788-9900-4112-2334-4eeff0112233",
+"SellerName": "OfficeSupply",
+"Name": "Tablet Microsoft Surface Pro",
+"Brand": "Microsoft",
+"Category": "Tablets"
+},
+{
+"Id": "66778899-0011-4223-3445-5ff001122334",
+"SellerName": "GardenStore",
+"Name": "E-Reader Kindle Paperwhite",
+"Brand": "Amazon",
+"Category": "Electronics"
+},
+{
+"Id": "77889900-1122-4334-4556-600112233445",
+"SellerName": "CleaningWorld",
+"Name": "Portable Monitor ASUS 15.6\"",
+"Brand": "ASUS",
+"Category": "Monitors"
+},
+{
+"Id": "88990011-2233-4445-5667-701122334456",
+"SellerName": "FootwearHub",
+"Name": "Curved Monitor Samsung 27\"",
+"Brand": "Samsung",
+"Category": "Monitors"
+},
+{
+"Id": "99001122-3344-4556-6778-801122334567",
+"SellerName": "AccessoryWorld",
+"Name": "Gaming Monitor Acer Predator",
+"Brand": "Acer",
+"Category": "Monitors"
+},
+{
+"Id": "00112233-4455-4667-7889-901122334678",
+"SellerName": "SmartHomeStore",
+"Name": "Wireless Mouse Razer",
+"Brand": "Razer",
+"Category": "Accessories"
+},
+{
+"Id": "11223344-5566-4778-8990-012233445789",
+"SellerName": "MegaStore",
+"Name": "Gaming Keyboard Razer BlackWidow",
+"Brand": "Razer",
+"Category": "Accessories"
+},
+{
+"Id": "22334455-6677-4889-9001-123344556890",
+"SellerName": "TechWorld",
+"Name": "Mousepad Extended RGB",
+"Brand": "SteelSeries",
+"Category": "Accessories"
+},
+{
+"Id": "33445566-7788-4990-0112-234455667901",
+"SellerName": "ElectroHub",
+"Name": "USB Hub 7-Port",
+"Brand": "Anker",
+"Category": "Accessories"
+},
+{
+"Id": "44556677-8899-4001-1223-345566778012",
+"SellerName": "GadgetZone",
+"Name": "Laptop Stand Aluminum",
+"Brand": "Rain Design",
+"Category": "Accessories"
+},
+{
+"Id": "55667788-9900-4112-2334-456677889123",
+"SellerName": "SuperMart",
+"Name": "Docking Station Dell",
+"Brand": "Dell",
+"Category": "Accessories"
+},
+{
+"Id": "66778899-0011-4223-3445-567788990234",
+"SellerName": "SportsHub",
+"Name": "Cable Organizer Kit",
+"Brand": null,
+"Category": "Accessories"
+},
+{
+"Id": "77889900-1122-4334-4556-678899001345",
+"SellerName": "HomeGoods",
+"Name": "Desk Lamp LED",
+"Brand": "BenQ",
+"Category": "Lighting"
+},
+{
+"Id": "88990011-2233-4445-5667-789900112456",
+"SellerName": "FurnitureWorld",
+"Name": "Noise Cancelling Headphones Bose",
+"Brand": "Bose",
+"Category": "Audio"
+},
+{
+"Id": "99001122-3344-4556-6778-890011223567",
+"SellerName": "AudioPro",
+"Name": "Gaming Headset HyperX Cloud",
+"Brand": "HyperX",
+"Category": "Audio"
+},
+{
+"Id": "00112233-4455-4667-7889-900112234678",
+"SellerName": "GamingStore",
+"Name": "Wireless Earbuds Samsung Galaxy Buds",
+"Brand": "Samsung",
+"Category": "Audio"
+},
+{
+"Id": "11223344-5566-4778-8990-001122345789",
+"SellerName": "FitnessCenter",
+"Name": "Soundbar Sony HT-S350",
+"Brand": "Sony",
+"Category": "Audio"
+},
+{
+"Id": "a1a1a1a1-b2b2-4c3c-d4d4-e5e5e5e5e5e5",
+"SellerName": "HealthStore",
+"Name": "MacBook Air  M2",
+"Brand": "Apple",
+"Category": "Computers"
+},
+{
+"Id": "b2b2b2b2-c3c3-4d4d-e5e5-f6f6f6f6f6f6",
+"SellerName": "OutdoorGear",
+"Name": "Smart TV Samsung  55\"",
+"Brand": "Samsung",
+"Category": "Electronics"
+},
+{
+"Id": "c3c3c3c3-d4d4-4e5e-f6f6-a7a7a7a7a7a7",
+"SellerName": "KitchenPlus",
+"Name": "Tablet iPad Pro 12.9''",
+"Brand": "Apple",
+"Category": "Tablets"
+},
+{
+"Id": "d4d4d4d4-e5e5-4f6f-a7a7-b8b8b8b8b8b8",
+"SellerName": "OfficeSupply",
+"Name": "Headphones Sony WH-1000XM5",
+"Brand": "Sony",
+"Category": "Audio"
+},
+{
+"Id": "e5e5e5e5-f6f6-4a7a-b8b8-c9c9c9c9c9c9",
+"SellerName": "GardenStore",
+"Name": "Câmera Canon EOS R6",
+"Brand": "Canon",
+"Category": "Photography"
+},
+{
+"Id": "f6f6f6f6-a7a7-4b8b-c9c9-d0d0d0d0d0d0",
+"SellerName": "CleaningWorld",
+"Name": "Drone DJI Mavic  3",
+"Brand": "DJI",
+"Category": "Photography"
+},
+{
+"Id": "a7a7a7a7-b8b8-4c9c-d0d0-e1e1e1e1e1e1",
+"SellerName": "FootwearHub",
+"Name": "Roteador WiFi 6 TP-Link",
+"Brand": "TP-Link",
+"Category": "Networking"
+},
+{
+"Id": "b8b8b8b8-c9c9-4d0d-e1e1-f2f2f2f2f2f2",
+"SellerName": "AccessoryWorld",
+"Name": "External SSD Samsung  2TB",
+"Brand": "Samsung",
+"Category": "Storage"
+},
+{
+"Id": "c9c9c9c9-d0d0-4e1e-f2f2-a3a3a3a3a3a3",
+"SellerName": "SmartHomeStore",
+"Name": "USB Flash Drive  128GB",
+"Brand": "SanDisk",
+"Category": "Storage"
+},
+{
+"Id": "d0d0d0d0-e1e1-4f2f-a3a3-b4b4b4b4b4b4",
+"SellerName": "MegaStore",
+"Name": "Portable Charger Anker 20000mAh",
+"Brand": "Anker",
+"Category": "Accessories"
+},
+{
+"Id": "e1e1e1e1-f2f2-4a3a-b4b4-c5c5c5c5c5c5",
+"SellerName": "TechWorld",
+"Name": "Wireless Earbuds AirPods  Pro",
+"Brand": "Apple",
+"Category": "Audio"
+},
+{
+"Id": "f2f2f2f2-a3a3-4b4b-c5c5-d6d6d6d6d6d6",
+"SellerName": "ElectroHub",
+"Name": "Bluetooth Speaker JBL Flip  6",
+"Brand": "JBL",
+"Category": "Audio"
+},
+{
+"Id": "a3a3a3a3-b4b4-4c5c-d6d6-e7e7e7e7e7e7",
+"SellerName": "GadgetZone",
+"Name": "Graphics Card RTX  4080",
+"Brand": "NVIDIA",
+"Category": "Components"
+},
+{
+"Id": "b4b4b4b4-c5c5-4d6d-e7e7-f8f8f8f8f8f8",
+"SellerName": "SuperMart",
+"Name": "Processador AMD Ryzen 9 7950X",
+"Brand": "AMD",
+"Category": "Components"
+},
+{
+"Id": "c5c5c5c5-d6d6-4e7e-f8f8-a9a9a9a9a9a9",
+"SellerName": "SportsHub",
+"Name": "Standing Desk FlexiSpot",
+"Brand": "FlexiSpot",
+"Category": "Furniture"
+},
+{
+"Id": "d6d6d6d6-e7e7-4f8f-a9a9-b0b0b0b0b0b0",
+"SellerName": "HomeGoods",
+"Name": "Gaming Chair Secretlab",
+"Brand": "Secretlab",
+"Category": "Furniture"
+},
+{
+"Id": "e7e7e7e7-f8f8-4a9a-b0b0-c1c1c1c1c1c1",
+"SellerName": "FurnitureWorld",
+"Name": "Smart Speaker Google Nest Audio",
+"Brand": "Google",
+"Category": "Smart Home"
+},
+{
+"Id": "f8f8f8f8-a9a9-4b0b-c1c1-d2d2d2d2d2d2",
+"SellerName": "AudioPro",
+"Name": "Smart Display Amazon Echo Show",
+"Brand": "Amazon",
+"Category": "Smart Home"
+},
+{
+"Id": "a9a9a9a9-b0b0-4c1c-d2d2-e3e3e3e3e3e3",
+"SellerName": "GamingStore",
+"Name": "Smart Lock August Wi-Fi",
+"Brand": "August",
+"Category": "Smart Home"
+},
+{
+"Id": "b0b0b0b0-c1c1-4d2d-e3e3-f4f4f4f4f4f4",
+"SellerName": "FitnessCenter",
+"Name": "Video Doorbell Arlo",
+"Brand": "Arlo",
+"Category": "Smart Home"
+},
+{
+"Id": "c1c1c1c1-d2d2-4e3e-f4f4-a5a5a5a5a5a5",
+"SellerName": "HealthStore",
+"Name": "Smart Plug TP-Link 4-Pack",
+"Brand": "TP-Link",
+"Category": "Smart Home"
+},
+{
+"Id": "d2d2d2d2-e3e3-4f4f-a5a5-b6b6b6b6b6b6",
+"SellerName": "OutdoorGear",
+"Name": "Smart Switch Lutron",
+"Brand": "Lutron",
+"Category": "Smart Home"
+},
+{
+"Id": "e3e3e3e3-f4f4-4a5a-b6b6-c7c7c7c7c7c7",
+"SellerName": "KitchenPlus",
+"Name": "Motion Sensor Philips Hue",
+"Brand": "Philips",
+"Category": "Smart Home"
+},
+{
+"Id": "f4f4f4f4-a5a5-4b6b-c7c7-d8d8d8d8d8d8",
+"SellerName": "OfficeSupply",
+"Name": "Smart Garage Door Opener Chamberlain",
+"Brand": "Chamberlain",
+"Category": "Smart Home"
+},
+{
+"Id": "a5a5a5a5-b6b6-4c7c-d8d8-e9e9e9e9e9e9",
+"SellerName": "GardenStore",
+"Name": "Smart Smoke Detector Nest",
+"Brand": "Google",
+"Category": "Smart Home"
+},
+{
+"Id": "e5e5e5e5-f6f6-4a7a-b8b8-c9c9c9c9c9c9",
+"SellerName": "GardenStore",
+"Name": "Camera Canon EOS R6",
+"Brand": "Canon",
+"Category": "Photography"
+},
+{
+"Id": "b6b6b6b6-c7c7-4d8d-e9e9-f0f0f0f0f0f0",
+"SellerName": "CleaningWorld",
+"Name": "Smart Sprinkler Controller Rachio",
+"Brand": "Rachio",
+"Category": "Smart Home"
+},
+{
+"Id": "11111111-2222-4333-4444-555555555555",
+"SellerName": "FootwearHub",
+"Name": "Notebook Dell  Inspiron",
+"Brand": "Dell",
+"Category": "Computers"
+},
+{
+"Id": "22222222-3333-4444-5555-666666666666",
+"SellerName": "AccessoryWorld",
+"Name": "Mouse Logitech  MX Master",
+"Brand": "Logitech",
+"Category": "Accessories"
+},
+{
+"Id": "33333333-4444-4555-6666-777777777777",
+"SellerName": "SmartHomeStore",
+"Name": "Keyboard Mechanical  RGB",
+"Brand": "Corsair",
+"Category": "Accessories"
+},
+{
+"Id": "44444444-5555-4666-7777-888888888888",
+"SellerName": "MegaStore",
+"Name": "Monitor LG UltraWide  34\"",
+"Brand": "LG",
+"Category": "Monitors"
+},
+{
+"Id": "55555555-6666-4777-8888-999999999999",
+"SellerName": "TechWorld",
+"Name": "PlayStation  5 Console",
+"Brand": "Sony",
+"Category": "Gaming"
+},
+{
+"Id": "66666666-7777-4888-9999-000000000000",
+"SellerName": "ElectroHub",
+"Name": "Xbox  Series X",
+"Brand": "Microsoft",
+"Category": "Gaming"
+},
+{
+"Id": "77777777-8888-4999-0000-111111111111",
+"SellerName": "GadgetZone",
+"Name": "Nintendo Switch  OLED",
+"Brand": "Nintendo",
+"Category": "Gaming"
+},
+{
+"Id": "88888888-9999-4000-1111-222222222222",
+"SellerName": "SuperMart",
+"Name": "Smartwatch Apple Watch  Series 9",
+"Brand": "Apple",
+"Category": "Wearables"
+},
+{
+"Id": "99999999-0000-4111-2222-333333333333",
+"SellerName": "SportsHub",
+"Name": "Fitbit Charge  6",
+"Brand": "Fitbit",
+"Category": "Wearables"
+},
+{
+"Id": "e6e6e5e5-f6f6-4a7a-b8b8-c9c9c9c9c9c9",
+"SellerName": "GardenStore",
+"Name": "Camera Canon EOS R6",
+"Brand": "Canon",
+"Category": "Photo"
+},
+{
+"Id": "00000000-1111-4222-3333-444444444444",
+"SellerName": "HomeGoods",
+"Name": "GoPro Hero  12",
+"Brand": "GoPro",
+"Category": "Photography"
+},
+{
+"Id": "aaaabbbb-cccc-4ddd-eeee-ffff00001111",
+"SellerName": "FurnitureWorld",
+"Name": "Protein Powder Whey 5lb",
+"Brand": "Optimum Nutrition",
+"Category": "Supplements"
+},
+{
+"Id": "bbbbcccc-dddd-4eee-ffff-000011112222",
+"SellerName": "AudioPro",
+"Name": "Pre-Workout Supplement",
+"Brand": "C4",
+"Category": "Supplements"
+},
+{
+"Id": "ccccdddd-eeee-4fff-0000-111122223333",
+"SellerName": "GamingStore",
+"Name": "BCAA Powder",
+"Brand": "Scivation",
+"Category": "Supplements"
+},
+{
+"Id": "ddddeee-ffff-4000-1111-222233334444",
+"SellerName": "FitnessCenter",
+"Name": "Creatine Monohydrate",
+"Brand": "MuscleTech",
+"Category": "Supplements"
+},
+{
+"Id": "eeeeffff-0000-4111-2222-333344445555",
+"SellerName": "HealthStore",
+"Name": "Mass Gainer Powder",
+"Brand": "Optimum Nutrition",
+"Category": "Supplements"
+},
+{
+"Id": "ffff0000-1111-4222-3333-444455556666",
+"SellerName": "OutdoorGear",
+"Name": "Protein Bars Box of 12",
+"Brand": "Quest Nutrition",
+"Category": "Supplements"
+},
+{
+"Id": "00001111-2222-4333-4444-555566667777",
+"SellerName": "KitchenPlus",
+"Name": "Meal Replacement Shake",
+"Brand": "Orgain",
+"Category": "Supplements"
+},
+{
+"Id": "11112222-3333-4444-5555-666677778888",
+"SellerName": "OfficeSupply",
+"Name": "Multivitamin Men",
+"Brand": "Centrum",
+"Category": "Supplements"
+},
+{
+"Id": "22223333-4444-4555-6666-777788889999",
+"SellerName": "GardenStore",
+"Name": "Multivitamin Women",
+"Brand": "One A Day",
+"Category": "Supplements"
+},
+{
+"Id": "33334444-5555-4666-7777-888899990000",
+"SellerName": "CleaningWorld",
+"Name": "Vitamin D3 5000 IU",
+"Brand": "NOW Foods",
+"Category": "Supplements"
+},
+{
+"Id": "44445555-6666-4777-8888-999900001111",
+"SellerName": "FootwearHub",
+"Name": "Omega-3 Fish Oil",
+"Brand": "Nordic Naturals",
+"Category": "Supplements"
+},
+{
+"Id": "55556666-7777-4888-9999-000011112222",
+"SellerName": "AccessoryWorld",
+"Name": "Magnesium Supplement",
+"Brand": "Nature Made",
+"Category": "Supplements"
+},
+{
+"Id": "66667777-8888-4999-0000-111122223333",
+"SellerName": "SmartHomeStore",
+"Name": "Vitamin C 1000mg",
+"Brand": "Nature Made",
+"Category": "Supplements"
+},
+{
+"Id": "77778888-9999-4000-1111-222233334444",
+"SellerName": "MegaStore",
+"Name": "Calcium with Vitamin D",
+"Brand": "Citracal",
+"Category": "Supplements"
+},
+{
+"Id": "88889999-0000-4111-2222-333344445555",
+"SellerName": "TechWorld",
+"Name": "Probiotics 50 Billion",
+"Brand": "Garden of Life",
+"Category": "Supplements"
+},
+{
+"Id": "99990000-1111-4222-3333-444455556666",
+"SellerName": "ElectroHub",
+"Name": "Collagen Peptides Powder",
+"Brand": "Vital Proteins",
+"Category": "Supplements"
+},
+{
+"Id": "abc12345-def6-4789-0abc-def123456789",
+"SellerName": "GadgetZone",
+"Name": "Running Shoes Nike Air Zoom",
+"Brand": "Nike",
+"Category": "Footwear"
+},
+{
+"Id": "bcd23456-efa7-4890-1bcd-efa234567890",
+"SellerName": "SuperMart",
+"Name": "Basketball Shoes Jordan Retro",
+"Brand": "Jordan",
+"Category": "Footwear"
+},
+{
+"Id": "cde34567-feb8-4901-2cde-feb345678901",
+"SellerName": "SportsHub",
+"Name": "Trail Running Shoes Salomon",
+"Brand": "Salomon",
+"Category": "Footwear"
+},
+{
+"Id": "def45678-fec9-4012-3def-fec456789012",
+"SellerName": "HomeGoods",
+"Name": "Soccer Cleats Adidas Predator",
+"Brand": "Adidas",
+"Category": "Footwear"
+},
+{
+"Id": "efa56789-fed0-4123-4efa-fed567890123",
+"SellerName": "FurnitureWorld",
+"Name": "Tennis Shoes Wilson",
+"Brand": "Wilson",
+"Category": "Footwear"
+},
+{
+"Id": "feb67890-fee1-4234-5feb-fee678901234",
+"SellerName": "AudioPro",
+"Name": "Hiking Boots Merrell",
+"Brand": "Merrell",
+"Category": "Footwear"
+},
+{
+"Id": "aaa11111-bbb2-4222-cccc-ddd333344444",
+"SellerName": "GamingStore",
+"Name": "Mattress Memory Foam Queen",
+"Brand": "Tempur-Pedic",
+"Category": "Furniture"
+},
+{
+"Id": "bbb22222-ccc3-4333-dddd-eee444455555",
+"SellerName": "FitnessCenter",
+"Name": "Mattress Hybrid King",
+"Brand": "Sealy",
+"Category": "Furniture"
+},
+{
+"Id": "ccc33333-ddd4-4444-eeee-fff555566666",
+"SellerName": "HealthStore",
+"Name": "Pillow Down Alternative",
+"Brand": "Beckham Hotel",
+"Category": "Bedding"
+},
+{
+"Id": "ddd44444-eee5-4555-ffff-aaa666677777",
+"SellerName": "OutdoorGear",
+"Name": "Pillow Memory Foam Contour",
+"Brand": "Coop Home Goods",
+"Category": "Bedding"
+},
+{
+"Id": "eee55555-fff6-4666-aaaa-bbb777788888",
+"SellerName": "KitchenPlus",
+"Name": "Bed Frame Metal Platform Queen",
+"Brand": "Zinus",
+"Category": "Furniture"
+},
+{
+"Id": "fff66666-aaa7-4777-bbbb-ccc888899999",
+"SellerName": "OfficeSupply",
+"Name": "Bed Frame Wood King",
+"Brand": null,
+"Category": "Furniture"
+},
+{
+"Id": "aaa77777-bbb8-4888-cccc-ddd999900000",
+"SellerName": "GardenStore",
+"Name": "Headboard Upholstered Queen",
+"Brand": "Zinus",
+"Category": "Furniture"
+},
+{
+"Id": "bbb88888-ccc9-4999-dddd-eee000011111",
+"SellerName": "CleaningWorld",
+"Name": "Box Spring Queen",
+"Brand": "Classic Brands",
+"Category": "Furniture"
+},
+{
+"Id": "ccc99999-ddd0-4000-eeee-fff111122222",
+"SellerName": "FootwearHub",
+"Name": "Mattress Topper Gel Memory Foam",
+"Brand": "Linenspa",
+"Category": "Bedding"
+},
+{
+"Id": "ddd00000-eee1-4111-ffff-aaa222233333",
+"SellerName": "AccessoryWorld",
+"Name": "Mattress Protector Waterproof",
+"Brand": "SafeRest",
+"Category": "Bedding"
+},
+{
+"Id": "12341234-5678-4901-2345-678901234567",
+"SellerName": "SmartHomeStore",
+"Name": "Mattress  Memory Foam Queen",
+"Brand": "Tempur-Pedic",
+"Category": "Furniture"
+},
+{
+"Id": "23452345-6789-4012-3456-789012345678",
+"SellerName": "MegaStore",
+"Name": "Pillow  Down Alternative",
+"Brand": "Beckham Hotel",
+"Category": "Bedding"
+},
+{
+"Id": "34563456-7890-4123-4567-890123456789",
+"SellerName": "TechWorld",
+"Name": "Running Shoes  Nike Air Zoom",
+"Brand": "Nike",
+"Category": "Footwear"
+},
+{
+"Id": "45674567-8901-4234-5678-901234567890",
+"SellerName": "ElectroHub",
+"Name": "Basketball Shoes  Jordan Retro",
+"Brand": "Jordan",
+"Category": "Footwear"
+},
+{
+"Id": "56785678-9012-4345-6789-012345678901",
+"SellerName": "GadgetZone",
+"Name": "Hiking Boots  Merrell",
+"Brand": "Merrell",
+"Category": "Footwear"
+},
+{
+"Id": "67896789-0123-4456-7890-123456789012",
+"SellerName": "SuperMart",
+"Name": "Protein Powder  Whey 5lb",
+"Brand": "Optimum Nutrition",
+"Category": "Supplements"
+},
+{
+"Id": "78907890-1234-4567-8901-234567890123",
+"SellerName": "SportsHub",
+"Name": "Multivitamin  Men",
+"Brand": "Centrum",
+"Category": "Supplements"
+},
+{
+"Id": "89018901-2345-4678-9012-345678901234",
+"SellerName": "HomeGoods",
+"Name": "Omega-3  Fish Oil",
+"Brand": "Nordic Naturals",
+"Category": "Supplements"
+},
+{
+"Id": "90129012-3456-4789-0123-456789012345",
+"SellerName": "FurnitureWorld",
+"Name": "Collagen Peptides  Powder",
+"Brand": "Vital Proteins",
+"Category": "Supplements"
+},
+{
+"Id": "01230123-4567-4890-1234-567890123456",
+"SellerName": "AudioPro",
+"Name": "Protein Bars  Box of 12",
+"Brand": "Quest Nutrition",
+"Category": "Supplements"
+},
+{
+"Id": "aabbccdd-eeff-4001-1223-344556677889",
+"SellerName": "GamingStore",
+"Name": "Area Rug 8x10 Modern",
+"Brand": "nuLOOM",
+"Category": "Home Decor"
+},
+{
+"Id": "bbccddee-ff00-4112-2334-455667788990",
+"SellerName": "FitnessCenter",
+"Name": "Runner Rug Hallway 2x7",
+"Brand": "Unique Loom",
+"Category": "Home Decor"
+},
+{
+"Id": "ccddeeff-0011-4223-3445-566778899001",
+"SellerName": "HealthStore",
+"Name": "Round Rug 6 Feet",
+"Brand": null,
+"Category": "Home Decor"
+},
+{
+"Id": "ddeeff00-1122-4334-4556-677889900112",
+"SellerName": "OutdoorGear",
+"Name": "Door Mat Outdoor",
+"Brand": "Gorilla Grip",
+"Category": "Home Decor"
+},
+{
+"Id": "eeff0011-2233-4445-5667-788990011223",
+"SellerName": "KitchenPlus",
+"Name": "Curtains Blackout 2 Panels",
+"Brand": "Nicetown",
+"Category": "Home Decor"
+},
+{
+"Id": "ff001122-3344-4556-6778-899001122334",
+"SellerName": "OfficeSupply",
+"Name": "Sheer Curtains White",
+"Brand": "Deconovo",
+"Category": "Home Decor"
+},
+{
+"Id": "00112233-4455-4667-7889-900112233445",
+"SellerName": "GardenStore",
+"Name": "Curtain Rod Adjustable",
+"Brand": "AmazonBasics",
+"Category": "Home Decor"
+},
+{
+"Id": "11223344-5566-4778-8990-011223344556",
+"SellerName": "CleaningWorld",
+"Name": "Window Blinds Cordless",
+"Brand": "Bali Blinds",
+"Category": "Home Decor"
+},
+{
+"Id": "22334455-6677-4889-9001-122334455667",
+"SellerName": "FootwearHub",
+"Name": "Throw Pillows Set of 4",
+"Brand": "Acanva",
+"Category": "Home Decor"
+},
+{
+"Id": "33445566-7788-4990-0112-233445566778",
+"SellerName": "AccessoryWorld",
+"Name": "Decorative Pillows Velvet",
+"Brand": "MIULEE",
+"Category": "Home Decor"
+},
+{
+"Id": "44556677-8899-4001-1223-344556677889",
+"SellerName": "SmartHomeStore",
+"Name": "Wall Art Canvas 3-Piece",
+"Brand": "Sephia Art",
+"Category": "Home Decor"
+},
+{
+"Id": "55667788-9900-4112-2334-455667788990",
+"SellerName": "MegaStore",
+"Name": "Framed Prints Set",
+"Brand": "Americanflat",
+"Category": "Home Decor"
+},
+{
+"Id": "66778899-0011-4223-3445-566778899001",
+"SellerName": "TechWorld",
+"Name": "Picture Frames 8x10 Set",
+"Brand": "Giftgarden",
+"Category": "Home Decor"
+},
+{
+"Id": "77889900-1122-4334-4556-677889900112",
+"SellerName": "ElectroHub",
+"Name": "Wall Clock Large Modern",
+"Brand": "La Crosse",
+"Category": "Home Decor"
+},
+{
+"Id": "88990011-2233-4445-5667-788990011223",
+"SellerName": "GadgetZone",
+"Name": "Wall Shelves Floating Set",
+"Brand": "BAMEOS",
+"Category": "Furniture"
+},
+{
+"Id": "99001122-3344-4556-6778-899001122334",
+"SellerName": "SuperMart",
+"Name": "Corner Shelf 5-Tier",
+"Brand": "VASAGLE",
+"Category": "Furniture"
+},
+{
+"Id": "00112233-4455-4667-7889-900112233445",
+"SellerName": "SportsHub",
+"Name": "Bookshelf 5-Shelf",
+"Brand": "Furinno",
+"Category": "Furniture"
+},
+{
+"Id": "fedcba98-7654-4321-0fed-cba987654321",
+"SellerName": "HomeGoods",
+"Name": "Coffee Table Lift Top",
+"Brand": "Yaheetech",
+"Category": "Furniture"
+},
+{
+"Id": "edcba987-6543-4210-fedc-ba9876543210",
+"SellerName": "FurnitureWorld",
+"Name": "End Table Set of 2",
+"Brand": "Furmax",
+"Category": "Furniture"
+},
+{
+"Id": "dcba9876-5432-4109-edcb-a98765432109",
+"SellerName": "AudioPro",
+"Name": "Console Table Narrow",
+"Brand": "Nathan James",
+"Category": "Furniture"
+},
+{
+"Id": "cba98765-4321-4098-dcba-987654321098",
+"SellerName": "GamingStore",
+"Name": "Side Table C-Shaped",
+"Brand": "HOOBRO",
+"Category": "Furniture"
+},
+{
+"Id": "ba987654-3210-4987-cba9-876543210987",
+"SellerName": "FitnessCenter",
+"Name": "Ottoman Storage Bench",
+"Brand": "Seville Classics",
+"Category": "Furniture"
+},
+{
+"Id": "a9876543-2109-4876-ba98-765432109876",
+"SellerName": "HealthStore",
+"Name": "Sofa 3-Seater Modern",
+"Brand": "Novogratz",
+"Category": "Furniture"
+},
+{
+"Id": "98765432-1098-4765-a987-654321098765",
+"SellerName": "OutdoorGear",
+"Name": "Loveseat 2-Seater",
+"Brand": "Giantex",
+"Category": "Furniture"
+},
+{
+"Id": "87654321-0987-4654-9876-543210987654",
+"SellerName": "KitchenPlus",
+"Name": "Sectional Couch L-Shaped",
+"Brand": "Honbay",
+"Category": "Furniture"
+},
+{
+"Id": "76543210-9876-4543-8765-432109876543",
+"SellerName": "OfficeSupply",
+"Name": "Recliner Chair Leather",
+"Brand": "Homall",
+"Category": "Furniture"
+},
+{
+"Id": "65432109-8765-4432-7654-321098765432",
+"SellerName": "GardenStore",
+"Name": "Accent Chair Armchair",
+"Brand": "Christopher Knight",
+"Category": "Furniture"
+},
+{
+"Id": "54321098-7654-4321-6543-210987654321",
+"SellerName": "CleaningWorld",
+"Name": "Dining Table Set 5-Piece",
+"Brand": "Giantex",
+"Category": "Furniture"
+},
+{
+"Id": "43210987-6543-4210-5432-109876543210",
+"SellerName": "FootwearHub",
+"Name": "Dining Table Rectangular",
+"Brand": "Zinus",
+"Category": "Furniture"
+},
+{
+"Id": "32109876-5432-4109-4321-098765432109",
+"SellerName": "AccessoryWorld",
+"Name": "Dining Chairs Set of 4",
+"Brand": "Furmax",
+"Category": "Furniture"
+},
+{
+"Id": "21098765-4321-4098-3210-987654321098",
+"SellerName": "SmartHomeStore",
+"Name": "Bar Stools Set of 2",
+"Brand": "Yaheetech",
+"Category": "Furniture"
+},
+{
+"Id": "10987654-3210-4987-2109-876543210987",
+"SellerName": "MegaStore",
+"Name": "Kitchen Island Cart",
+"Brand": "HOMCOM",
+"Category": "Furniture"
+},
+{
+"Id": "09876543-2109-4876-1098-765432109876",
+"SellerName": "TechWorld",
+"Name": "Broom and Dustpan Set",
+"Brand": "O-Cedar",
+"Category": "Cleaning"
+},
+{
+"Id": "98765432-1098-4765-0987-654321098765",
+"SellerName": "ElectroHub",
+"Name": "Mop and Bucket Set",
+"Brand": "O-Cedar",
+"Category": "Cleaning"
+},
+{
+"Id": "87654321-0987-4654-9876-543210987654",
+"SellerName": "GadgetZone",
+"Name": "Spin Mop Self-Wringing",
+"Brand": "Tsmine",
+"Category": "Cleaning"
+},
+{
+"Id": "76543210-9876-4543-8765-432109876543",
+"SellerName": "SuperMart",
+"Name": "Steam Mop Bissell",
+"Brand": "Bissell",
+"Category": "Cleaning"
+},
+{
+"Id": "65432109-8765-4432-7654-321098765432",
+"SellerName": "SportsHub",
+"Name": "Vacuum Cleaner Upright",
+"Brand": "Shark",
+"Category": "Home Appliances"
+},
+{
+"Id": "54321098-7654-4321-6543-210987654321",
+"SellerName": "HomeGoods",
+"Name": "Vacuum Cleaner Cordless",
+"Brand": "Dyson",
+"Category": "Home Appliances"
+},
+{
+"Id": "43210987-6543-4210-5432-109876543210",
+"SellerName": "FurnitureWorld",
+"Name": "Handheld Vacuum Cordless",
+"Brand": "Black+Decker",
+"Category": "Home Appliances"
+},
+{
+"Id": "32109876-5432-4109-4321-098765432109",
+"SellerName": "AudioPro",
+"Name": "Shop Vac Wet Dry",
+"Brand": "Vacmaster",
+"Category": "Tools"
+},
+{
+"Id": "21098765-4321-4098-3210-987654321098",
+"SellerName": "GamingStore",
+"Name": "Carpet Cleaner Machine",
+"Brand": "Hoover",
+"Category": "Home Appliances"
+},
+{
+"Id": "10987654-3210-4987-2109-876543210987",
+"SellerName": "FitnessCenter",
+"Name": "Spot Cleaner Portable",
+"Brand": "Bissell",
+"Category": "Home Appliances"
+},
+{
+"Id": "aabbcc11-ddee-4ff0-0112-233445566778",
+"SellerName": "HealthStore",
+"Name": "Winter Boots Timberland",
+"Brand": "Timberland",
+"Category": "Footwear"
+},
+{
+"Id": "bbccdd22-eeff-4001-1223-344556677889",
+"SellerName": "OutdoorGear",
+"Name": "Sandals Teva Hurricane",
+"Brand": "Teva",
+"Category": "Footwear"
+},
+{
+"Id": "ccddee33-ff00-4112-2334-455667788990",
+"SellerName": "KitchenPlus",
+"Name": "Flip Flops Havaianas",
+"Brand": "Havaianas",
+"Category": "Footwear"
+},
+{
+"Id": "ddeeff44-0011-4223-3445-566778899001",
+"SellerName": "OfficeSupply",
+"Name": "Casual Sneakers Vans",
+"Brand": "Vans",
+"Category": "Footwear"
+},
+{
+"Id": "eeff0055-1122-4334-4556-677889900112",
+"SellerName": "GardenStore",
+"Name": "Dress Shoes Oxford",
+"Brand": "Clarks",
+"Category": "Footwear"
+},
+{
+"Id": "ff001166-2233-4445-5667-788990011223",
+"SellerName": "CleaningWorld",
+"Name": "Work Boots Steel Toe",
+"Brand": "Carhartt",
+"Category": "Footwear"
+},
+{
+"Id": "00112277-3344-4556-6778-899001122334",
+"SellerName": "FootwearHub",
+"Name": "Rain Boots Rubber",
+"Brand": "Hunter",
+"Category": "Footwear"
+},
+{
+"Id": "09835342345-4678-9abc-def012345678",
+"SellerName": "MegaStore",
+"Name": "Security Test Product",
+"Brand": "TestBrand'; SELECT 1; --",
+"Category": "Electronics"
+},
+{
+"Id": "11223388-4455-4667-7889-900112233445",
+"SellerName": "AccessoryWorld",
+"Name": "Backpack Laptop North Face",
+"Brand": "The North Face",
+"Category": "Bags"
+},
+{
+"Id": "22334499-5566-4778-8990-011223344556",
+"SellerName": "SmartHomeStore",
+"Name": "Messenger Bag Canvas",
+"Brand": "Timbuk2",
+"Category": "Bags"
+},
+{
+"Id": "33445500-6677-4889-9001-122334455667",
+"SellerName": "MegaStore",
+"Name": "Duffle Bag Gym",
+"Brand": "Nike",
+"Category": "Bags"
+},
+{
+"Id": "44556611-7788-4990-0112-233445566778",
+"SellerName": "TechWorld",
+"Name": "Travel Backpack 40L",
+"Brand": "Osprey",
+"Category": "Bags"
+},
+{
+"Id": "55667722-8899-4001-1223-344556677889",
+"SellerName": "ElectroHub",
+"Name": "Suitcase Hardside 28\"",
+"Brand": "Samsonite",
+"Category": "Bags"
+},
+{
+"Id": "66778833-9900-4112-2334-455667788990",
+"SellerName": "GadgetZone",
+"Name": "Carry-On Luggage Spinner",
+"Brand": "Travelpro",
+"Category": "Bags"
+},
+{
+"Id": "77889944-0011-4223-3445-566778899001",
+"SellerName": "SuperMart",
+"Name": "Wallet RFID Blocking",
+"Brand": "Fossil",
+"Category": "Accessories"
+},
+{
+"Id": "88990055-1122-4334-4556-677889900112",
+"SellerName": "SportsHub",
+"Name": "Belt Leather Reversible",
+"Brand": "Levi's",
+"Category": "Accessories"
+},
+{
+"Id": "99001166-2233-4445-5667-788990011223",
+"SellerName": "HomeGoods",
+"Name": "Sunglasses Polarized",
+"Brand": "Ray-Ban",
+"Category": "Accessories"
+},
+{
+"Id": "00112277-3344-4556-6778-899001122334",
+"SellerName": "FurnitureWorld",
+"Name": "Sports Sunglasses Oakley",
+"Brand": "Oakley",
+"Category": "Accessories"
+},
+{
+"Id": "11223388-4455-4667-7889-900112233445",
+"SellerName": "AudioPro",
+"Name": "Watch Automatic Seiko",
+"Brand": "Seiko",
+"Category": "Watches"
+},
+{
+"Id": "22334499-5566-4778-8990-011223344556",
+"SellerName": "GamingStore",
+"Name": "Smartwatch Garmin Fenix",
+"Brand": "Garmin",
+"Category": "Watches"
+},
+{
+"Id": "33445500-6677-4889-9001-122334455667",
+"SellerName": "FitnessCenter",
+"Name": "Digital Watch Casio G-Shock",
+"Brand": "Casio",
+"Category": "Watches"
+},
+{
+"Id": "aaaa1111-bbbb-4ccc-dddd-eeee22223333",
+"SellerName": "HealthStore",
+"Name": "Broom and  Dustpan Set",
+"Brand": "O-Cedar",
+"Category": "Cleaning"
+},
+{
+"Id": "bbbb2222-cccc-4ddd-eeee-ffff33334444",
+"SellerName": "OutdoorGear",
+"Name": "Vacuum Cleaner  Upright",
+"Brand": "Shark",
+"Category": "Home Appliances"
+},
+{
+"Id": "cccc3333-dddd-4eee-ffff-aaaa44445555",
+"SellerName": "KitchenPlus",
+"Name": "Vacuum Cleaner  Cordless",
+"Brand": "Dyson",
+"Category": "Home Appliances"
+},
+{
+"Id": "dddd4444-eeee-4fff-aaaa-bbbb55556666",
+"SellerName": "OfficeSupply",
+"Name": "Winter Boots  Timberland",
+"Brand": "Timberland",
+"Category": "Footwear"
+},
+{
+"Id": "eeee5555-ffff-4aaa-bbbb-cccc66667777",
+"SellerName": "GardenStore",
+"Name": "Sandals Teva  Hurricane",
+"Brand": "Teva",
+"Category": "Footwear"
+},
+{
+"Id": "ffff6666-aaaa-4bbb-cccc-dddd77778888",
+"SellerName": "CleaningWorld",
+"Name": "Flip Flops  Havaianas",
+"Brand": "Havaianas",
+"Category": "Footwear"
+},
+{
+"Id": "aaaa7777-bbbb-4ccc-dddd-eeee88889999",
+"SellerName": "FootwearHub",
+"Name": "Casual Sneakers  Vans",
+"Brand": "Vans",
+"Category": "Footwear"
+},
+{
+"Id": "bbbb8888-cccc-4ddd-eeee-ffff99990000",
+"SellerName": "AccessoryWorld",
+"Name": "Dress Shoes  Oxford",
+"Brand": "Clarks",
+"Category": "Footwear"
+},
+{
+"Id": "cccc9999-dddd-4eee-ffff-aaaa00001111",
+"SellerName": "SmartHomeStore",
+"Name": "Work Boots  Steel Toe",
+"Brand": "Carhartt",
+"Category": "Footwear"
+},
+{
+"Id": "dddd0000-eeee-4fff-aaaa-bbbb11112222",
+"SellerName": "MegaStore",
+"Name": "Rain Boots  Rubber",
+"Brand": "Hunter",
+"Category": "Footwear"
+},
+{
+"Id": "1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+"SellerName": "TechWorld",
+"Name": "Garden Hose 50 Feet",
+"Brand": "Flexzilla",
+"Category": "Garden"
+},
+{
+"Id": "2b3c4d5e-6f7a-4b8c-9d0e-1f2a3b4c5d6e",
+"SellerName": "ElectroHub",
+"Name": "Hose Nozzle Spray Gun",
+"Brand": "Gilmour",
+"Category": "Garden"
+},
+{
+"Id": "3c4d5e6f-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+"SellerName": "GadgetZone",
+"Name": "Sprinkler Oscillating",
+"Brand": "Melnor",
+"Category": "Garden"
+},
+{
+"Id": "4d5e6f7a-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+"SellerName": "SuperMart",
+"Name": "Garden Tools Set 10-Piece",
+"Brand": "Jardineer",
+"Category": "Garden"
+},
+{
+"Id": "5e6f7a8b-9c0d-4e1f-2a3b-4c5d6e7f8a9b",
+"SellerName": "SportsHub",
+"Name": "Pruning Shears Bypass",
+"Brand": "Fiskars",
+"Category": "Garden"
+},
+{
+"Id": "6f7a8b9c-0d1e-4f2a-3b4c-5d6e7f8a9b0c",
+"SellerName": "HomeGoods",
+"Name": "Garden Gloves Grippy",
+"Brand": "COOLJOB",
+"Category": "Garden"
+},
+{
+"Id": "7a8b9c0d-1e2f-4a3b-4c5d-6e7f8a9b0c1d",
+"SellerName": "FurnitureWorld",
+"Name": "Wheelbarrow 4 Cubic Feet",
+"Brand": "Gorilla Carts",
+"Category": "Garden"
+},
+{
+"Id": "8b9c0d1e-2f3a-4b4c-5d6e-7f8a9b0c1d2e",
+"SellerName": "AudioPro",
+"Name": "Lawn Mower Push Reel",
+"Brand": "Fiskars",
+"Category": "Garden"
+},
+{
+"Id": "9c0d1e2f-3a4b-4c5d-6e7f-8a9b0c1d2e3f",
+"SellerName": "GamingStore",
+"Name": "Electric Lawn Mower Cordless",
+"Brand": "Greenworks",
+"Category": "Garden"
+},
+{
+"Id": "0d1e2f3a-4b5c-4d6e-7f8a-9b0c1d2e3f4a",
+"SellerName": "FitnessCenter",
+"Name": "Grass Trimmer String",
+"Brand": "BLACK+DECKER",
+"Category": "Garden"
+},
+{
+"Id": "1e2f3a4b-5c6d-4e7f-8a9b-0c1d2e3f4a5b",
+"SellerName": "HealthStore",
+"Name": "Leaf Blower Cordless",
+"Brand": "WORX",
+"Category": "Garden"
+},
+{
+"Id": "2f3a4b5c-6d7e-4f8a-9b0c-1d2e3f4a5b6c",
+"SellerName": "OutdoorGear",
+"Name": "Hedge Trimmer Electric",
+"Brand": "BLACK+DECKER",
+"Category": "Garden"
+},
+{
+"Id": "3a4b5c6d-7e8f-4a9b-0c1d-2e3f4a5b6c7d",
+"SellerName": "KitchenPlus",
+"Name": "Chainsaw Electric",
+"Brand": "OREGON",
+"Category": "Garden"
+},
+{
+"Id": "4b5c6d7e-8f9a-4b0c-1d2e-3f4a5b6c7d8e",
+"SellerName": "OfficeSupply",
+"Name": "Pressure Washer Electric",
+"Brand": "Sun Joe",
+"Category": "Garden"
+},
+{
+"Id": "5c6d7e8f-9a0b-4c1d-2e3f-4a5b6c7d8e9f",
+"SellerName": "GardenStore",
+"Name": "Garden Shed Storage",
+"Brand": "Suncast",
+"Category": "Garden"
+},
+{
+"Id": "6d7e8f9a-0b1c-4d2e-3f4a-5b6c7d8e9f0a",
+"SellerName": "CleaningWorld",
+"Name": "Deck Box Storage 120 Gallon",
+"Brand": "Keter",
+"Category": "Outdoor"
+},
+{
+"Id": "7e8f9a0b-1c2d-4e3f-4a5b-6c7d8e9f0a1b",
+"SellerName": "FootwearHub",
+"Name": "Patio Furniture Set 4-Piece",
+"Brand": "FDW",
+"Category": "Outdoor"
+},
+{
+"Id": "8f9a0b1c-2d3e-4f4a-5b6c-7d8e9f0a1b2c",
+"SellerName": "AccessoryWorld",
+"Name": "Outdoor Sectional Sofa",
+"Brand": "Devoko",
+"Category": "Outdoor"
+},
+{
+"Id": "9a0b1c2d-3e4f-4a5b-6c7d-8e9f0a1b2c3d",
+"SellerName": "SmartHomeStore",
+"Name": "Adirondack Chair Set of 2",
+"Brand": "Keter",
+"Category": "Outdoor"
+},
+{
+"Id": "0b1c2d3e-4f5a-4b6c-7d8e-9f0a1b2c3d4e",
+"SellerName": "MegaStore",
+"Name": "Patio Umbrella 9 Feet",
+"Brand": "Abba Patio",
+"Category": "Outdoor"
+},
+{
+"Id": "1c2d3e4f-5a6b-4c7d-8e9f-0a1b2c3d4e5f",
+"SellerName": "TechWorld",
+"Name": "Patio Heater Propane",
+"Brand": "AZ Patio Heaters",
+"Category": "Outdoor"
+},
+{
+"Id": "2d3e4f5a-6b7c-4d8e-9f0a-1b2c3d4e5f6a",
+"SellerName": "ElectroHub",
+"Name": "Fire Pit Outdoor Wood Burning",
+"Brand": "Solo Stove",
+"Category": "Outdoor"
+},
+{
+"Id": "3e4f5a6b-7c8d-4e9f-0a1b-2c3d4e5f6a7b",
+"SellerName": "GadgetZone",
+"Name": "Fire Pit Table Propane",
+"Brand": "Endless Summer",
+"Category": "Outdoor"
+},
+{
+"Id": "aaaa1a1a-bbbb-4ccc-dddd-eeee1e1e1e1e",
+"SellerName": "SuperMart",
+"Name": "Garden Hose  50 Feet",
+"Brand": "Flexzilla",
+"Category": "Garden"
+},
+{
+"Id": "bbbb2b2b-cccc-4ddd-eeee-ffff2f2f2f2f",
+"SellerName": "SportsHub",
+"Name": "Hose Nozzle  Spray Gun",
+"Brand": "Gilmour",
+"Category": "Garden"
+},
+{
+"Id": "cccc3c3c-dddd-4eee-ffff-aaaa3a3a3a3a",
+"SellerName": "HomeGoods",
+"Name": "Sprinkler  Oscillating",
+"Brand": "Melnor",
+"Category": "Garden"
+},
+{
+"Id": "dddd4d4d-eeee-4fff-aaaa-bbbb4b4b4b4b",
+"SellerName": "FurnitureWorld",
+"Name": "Garden Tools Set  10-Piece",
+"Brand": "Jardineer",
+"Category": "Garden"
+},
+{
+"Id": "eeee5e5e-ffff-4aaa-bbbb-cccc5c5c5c5c",
+"SellerName": "AudioPro",
+"Name": "Pruning Shears  Bypass",
+"Brand": "Fiskars",
+"Category": "Garden"
+},
+{
+"Id": "ffff6f6f-aaaa-4bbb-cccc-dddd6d6d6d6d",
+"SellerName": "GamingStore",
+"Name": "Garden Gloves  Grippy",
+"Brand": "COOLJOB",
+"Category": "Garden"
+},
+{
+"Id": "aaaa7a7a-bbbb-4ccc-dddd-eeee7e7e7e7e",
+"SellerName": "FitnessCenter",
+"Name": "Wheelbarrow  4 Cubic Feet",
+"Brand": "Gorilla Carts",
+"Category": "Garden"
+},
+{
+"Id": "bbbb8b8b-cccc-4ddd-eeee-ffff8f8f8f8f",
+"SellerName": "HealthStore",
+"Name": "Lawn Mower  Push Reel",
+"Brand": "Fiskars",
+"Category": "Garden"
+},
+{
+"Id": "cccc9c9c-dddd-4eee-ffff-aaaa9a9a9a9a",
+"SellerName": "OutdoorGear",
+"Name": "Electric Lawn Mower  Cordless",
+"Brand": "Greenworks",
+"Category": "Garden"
+},
+{
+"Id": "dddd0d0d-eeee-4fff-aaaa-bbbb0b0b0b0b",
+"SellerName": "KitchenPlus",
+"Name": "Grass Trimmer  String",
+"Brand": "BLACK+DECKER",
+"Category": "Garden"
+},
+{
+"Id": "1111aaaa-2222-4bbb-cccc-3333ddddeeee",
+"SellerName": "OfficeSupply",
+"Name": "Basketball Spalding Official",
+"Brand": "Spalding",
+"Category": "Sports"
+},
+{
+"Id": "2222bbbb-3333-4ccc-dddd-4444eeeeffff",
+"SellerName": "GardenStore",
+"Name": "Basketball Hoop Portable",
+"Brand": "Lifetime",
+"Category": "Sports"
+},
+{
+"Id": "3333cccc-4444-4ddd-eeee-5555ffff0000",
+"SellerName": "CleaningWorld",
+"Name": "Soccer Ball Size 5",
+"Brand": "Adidas",
+"Category": "Sports"
+},
+{
+"Id": "4444dddd-5555-4eee-ffff-6666aaaa1111",
+"SellerName": "FootwearHub",
+"Name": "Soccer Goal Portable",
+"Brand": "Franklin Sports",
+"Category": "Sports"
+},
+{
+"Id": "5555eeee-6666-4fff-aaaa-7777bbbb2222",
+"SellerName": "AccessoryWorld",
+"Name": "Soccer Shin Guards",
+"Brand": "Adidas",
+"Category": "Sports"
+},
+{
+"Id": "6666ffff-7777-4aaa-bbbb-8888cccc3333",
+"SellerName": "SmartHomeStore",
+"Name": "Goalkeeper Gloves",
+"Brand": "Adidas",
+"Category": "Sports"
+},
+{
+"Id": "7777aaaa-8888-4bbb-cccc-9999dddd4444",
+"SellerName": "MegaStore",
+"Name": "Football Official Size",
+"Brand": "Wilson",
+"Category": "Sports"
+},
+{
+"Id": "8888bbbb-9999-4ccc-dddd-0000eeee5555",
+"SellerName": "TechWorld",
+"Name": "Football Gloves Receiver",
+"Brand": "Under Armour",
+"Category": "Sports"
+},
+{
+"Id": "9999cccc-0000-4ddd-eeee-1111ffff6666",
+"SellerName": "ElectroHub",
+"Name": "Football Helmet Adult",
+"Brand": "Riddell",
+"Category": "Sports"
+},
+{
+"Id": "0000dddd-1111-4eee-ffff-2222aaaa7777",
+"SellerName": "GadgetZone",
+"Name": "Baseball Glove Adult",
+"Brand": "Rawlings",
+"Category": "Sports"
+},
+{
+"Id": "1111eeee-2222-4fff-aaaa-3333bbbb8888",
+"SellerName": "SuperMart",
+"Name": "Baseball Bat Aluminum",
+"Brand": "Easton",
+"Category": "Sports"
+},
+{
+"Id": "2222ffff-3333-4aaa-bbbb-4444cccc9999",
+"SellerName": "SportsHub",
+"Name": "Softball Glove 12 Inch",
+"Brand": "Wilson",
+"Category": "Sports"
+},
+{
+"Id": "3333aaaa-4444-4bbb-cccc-5555dddd0000",
+"SellerName": "HomeGoods",
+"Name": "Volleyball Official Size",
+"Brand": "Mikasa",
+"Category": "Sports"
+},
+{
+"Id": "4444bbbb-5555-4ccc-dddd-6666eeee1111",
+"SellerName": "FurnitureWorld",
+"Name": "Volleyball Net System",
+"Brand": "Park & Sun Sports",
+"Category": "Sports"
+},
+{
+"Id": "5555cccc-6666-4ddd-eeee-7777ffff2222",
+"SellerName": "AudioPro",
+"Name": "Hockey Stick Ice",
+"Brand": "Bauer",
+"Category": "Sports"
+},
+{
+"Id": "6666dddd-7777-4eee-ffff-8888aaaa3333",
+"SellerName": "GamingStore",
+"Name": "Hockey Skates Ice",
+"Brand": "Bauer",
+"Category": "Sports"
+},
+{
+"Id": "7777eeee-8888-4fff-aaaa-9999bbbb4444",
+"SellerName": "FitnessCenter",
+"Name": "Roller Skates Quad",
+"Brand": "Chicago Skates",
+"Category": "Sports"
+},
+{
+"Id": "8888ffff-9999-4aaa-bbbb-0000cccc5555",
+"SellerName": "HealthStore",
+"Name": "Inline Skates Rollerblades",
+"Brand": "Rollerblade",
+"Category": "Sports"
+},
+{
+"Id": "9999aaaa-0000-4bbb-cccc-1111dddd6666",
+"SellerName": "OutdoorGear",
+"Name": "Skateboard Deck 8 Inch",
+"Brand": "Powell Peralta",
+"Category": "Sports"
+},
+{
+"Id": "0000bbbb-1111-4ccc-dddd-2222eeee7777",
+"SellerName": "KitchenPlus",
+"Name": "BMX Bike 20 Inch",
+"Brand": "Mongoose",
+"Category": "Sports"
+},
+{
+"Id": "aaaa1111-bbbb-4222-cccc-dddd33334444",
+"SellerName": "OfficeSupply",
+"Name": "Basketball Spalding  Official",
+"Brand": "Spalding",
+"Category": "Sports"
+},
+{
+"Id": "bbbb2222-cccc-4333-dddd-eeee44445555",
+"SellerName": "GardenStore",
+"Name": "Basketball Hoop  Portable",
+"Brand": "Lifetime",
+"Category": "Sports"
+},
+{
+"Id": "cccc3333-dddd-4444-eeee-ffff55556666",
+"SellerName": "CleaningWorld",
+"Name": "Soccer Ball  Size 5",
+"Brand": "Adidas",
+"Category": "Sports"
+},
+{
+"Id": "dddd4444-eeee-4555-ffff-aaaa66667777",
+"SellerName": "FootwearHub",
+"Name": "Soccer Goal  Portable",
+"Brand": "Franklin Sports",
+"Category": "Sports"
+},
+{
+"Id": "eeee5555-ffff-4666-aaaa-bbbb77778888",
+"SellerName": "AccessoryWorld",
+"Name": "Soccer Shin  Guards",
+"Brand": "Adidas",
+"Category": "Sports"
+},
+{
+"Id": "ffff6666-aaaa-4777-bbbb-cccc88889999",
+"SellerName": "SmartHomeStore",
+"Name": "Goalkeeper  Gloves",
+"Brand": "Adidas",
+"Category": "Sports"
+},
+{
+"Id": "aaaa7777-bbbb-4888-cccc-dddd99990000",
+"SellerName": "MegaStore",
+"Name": "Football Official  Size",
+"Brand": "Wilson",
+"Category": "Sports"
+},
+{
+"Id": "bbbb8888-cccc-4999-dddd-eeee00001111",
+"SellerName": "TechWorld",
+"Name": "Football Gloves  Receiver",
+"Brand": "Under Armour",
+"Category": "Sports"
+},
+{
+"Id": "cccc9999-dddd-4000-eeee-ffff11112222",
+"SellerName": "ElectroHub",
+"Name": "Football Helmet  Adult",
+"Brand": "Riddell",
+"Category": "Sports"
+},
+{
+"Id": "dddd0000-eeee-4111-ffff-aaaa22223333",
+"SellerName": "GadgetZone",
+"Name": "Baseball Glove  Adult",
+"Brand": "Rawlings",
+"Category": "Sports"
+},
+{
+"Id": "addd0000-eeee-4111-ffff-aaaa22223333",
+"SellerName": "GadgetZone",
+"Name": "Tablet iPad Pro 12.9",
+"Brand": "Apple",
+"Category": "Tablets"
+},
+{
+"Id": "uddd0000-eeee-4111-ffff-aaaa22223333",
+"SellerName": "SmartHomeStore",
+"Name": "Smart TV Samsung 55",
+"Brand": "Samsung",
+"Category": "Electronics"
+}
+]

@@ -12,5 +12,6 @@ public static class RegistryDependency
         service.AddScoped<ISellerProductRepository, SellerProductRepository>();
         service.AddScoped<IProductService, ProductService>();
         service.AddScoped<ISellerProductService, SellerProductService>();
+        service.AddScoped<ICatalogService, CatalogService>();
     }
 }
