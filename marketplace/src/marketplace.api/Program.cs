@@ -1,10 +1,10 @@
+using marketplace.api.Configuration;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+RegistryDependency.ResolveDependencies(builder.Services);   
 
 var app = builder.Build();
 
