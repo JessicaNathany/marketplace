@@ -54,8 +54,3 @@ The database file is configured at:
 
 - `GET /api/seller-product/by-seller?sellerName=MegaStore&page=1&pageSize=50`  
   Filters seller-product links by seller name.
-
-## Tests
-
-Run tests with:
-- `dotnet test ./marketplace/marketplace.tests/marketplace.tests.csproj`
