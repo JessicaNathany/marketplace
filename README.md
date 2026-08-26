@@ -54,3 +54,12 @@ The database file is configured at:
 
 - `GET /api/seller-product/by-seller?sellerName=MegaStore&page=1&pageSize=50`  
   Filters seller-product links by seller name.
+
+## Tests
+<img width="926" height="621" alt="image" src="https://github.com/user-attachments/assets/afc08d38-0669-486d-b6ea-6d22d46d6378" />
+
+<img width="963" height="632" alt="image" src="https://github.com/user-attachments/assets/6af909fe-cbc4-437b-b30d-2625d01d6b77" />
+
+<img width="826" height="668" alt="image" src="https://github.com/user-attachments/assets/ce2a0e03-5954-4d54-b187-c5f0d511207e" />
+
+
