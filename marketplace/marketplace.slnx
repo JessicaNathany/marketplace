@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="marketplace.tests/marketplace.tests.csproj" />
   <Project Path="src/marketplace.api/marketplace.api.csproj" />
 </Solution>
