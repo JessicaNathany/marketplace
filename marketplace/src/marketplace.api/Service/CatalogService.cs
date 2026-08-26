@@ -3,7 +3,9 @@ using marketplace.api.Service.Interfaces;
 using System.Text.Json;
 
 namespace marketplace.api.Service;
-public class CatalogService(IWebHostEnvironment environment, ILogger<CatalogService> logger) : ICatalogService
+public class CatalogService(
+    IWebHostEnvironment environment,
+    ILogger<CatalogService> logger) : ICatalogService
 {
     public async Task<CatalogImportResultDto> ImportCatalogAsync(int page, int pageSize, CancellationToken cancellationToken = default)
     {
@@ -68,10 +70,20 @@ public class CatalogService(IWebHostEnvironment environment, ILogger<CatalogServ
                 incompleteItem.Name);
         }
 
-        var totalItems = validItems.Count;
+        var processedItems = validItems
+            .Select(item => new ImportedSellerProductDto
+            {
+                Id = Normalize(item.Id),
+                SellerName = Normalize(item.SellerName),
+                Name = NormalizeForCatalog(item.Name),
+                Brand = NormalizeForCatalog(item.Brand),
+                Category = NormalizeForCatalog(item.Category)
+            })
+            .ToList();
 
+        var totalItems = processedItems.Count;
         var totalPages = totalItems == 0 ? 0 : (int)Math.Ceiling(totalItems / (double)pageSize);
-        var pagedItems = validItems
+        var pagedItems = processedItems
             .Skip((page - 1) * pageSize)
             .Take(pageSize)
             .ToList();
@@ -95,5 +107,16 @@ public class CatalogService(IWebHostEnvironment environment, ILogger<CatalogServ
     private static string Normalize(string? value)
     {
         return value?.Trim() ?? string.Empty;
+    }
+
+    private static string NormalizeForCatalog(string? value)
+    {
+        var trimmed = Normalize(value);
+        if (trimmed.Length == 0)
+        {
+            return string.Empty;
+        }
+
+        return string.Join(' ', trimmed.Split(' ', StringSplitOptions.RemoveEmptyEntries));
     }
 }

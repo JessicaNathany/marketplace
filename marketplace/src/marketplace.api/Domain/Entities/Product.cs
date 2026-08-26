@@ -2,14 +2,12 @@
 
 public class Product
 {
-    private readonly List<SellerProduct> _seller = new();
-
     public int Id { get; private set; }
     public string Name { get; private set; }
     public string Brand { get; private set;  }
     public string Category { get; private set; }
 
-    public IReadOnlyCollection<SellerProduct> SellerProducts => _seller.AsReadOnly();
+    public ICollection<SellerProduct> SellerProducts { get; private set; } = new List<SellerProduct>();
 
     public Product(string name, string brand, string category)
     {
@@ -18,9 +16,9 @@ public class Product
         Category = category;
     }
 
-    public void AddSeller(string sellerName)
+    public void AddSeller(string sellerName, string sellerProductId)
     {
-        if (_seller.Any(x => x.SellerName == sellerName)) return;
-        _seller.Add(new SellerProduct(sellerName, Id));
+        if (SellerProducts.Any(x => x.SellerName == sellerName)) return;
+        SellerProducts.Add(new SellerProduct(sellerName, Id, sellerProductId));
     }
 }

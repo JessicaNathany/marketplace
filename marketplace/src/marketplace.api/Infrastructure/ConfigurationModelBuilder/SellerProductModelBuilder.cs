@@ -18,7 +18,8 @@ namespace marketplace.api.Infrastructure.ConfigurationModelBuilder
            .IsRequired();
 
             builder.Property(s => s.SellerProductId)
-             .HasColumnType("int");
+             .IsRequired()
+             .HasColumnType("varchar(50)");
 
             builder.ToTable("SellerProduct");
         }
