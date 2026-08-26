@@ -56,6 +56,8 @@ The database file is configured at:
   Filters seller-product links by seller name.
 
 ## Tests
+<img width="982" height="663" alt="{B7D1BA21-42DF-420C-B601-E7C0C0E44FD5}" src="https://github.com/user-attachments/assets/a255a30b-77e9-4e88-a46d-21de61ca4d02" />
+
 <img width="926" height="621" alt="image" src="https://github.com/user-attachments/assets/afc08d38-0669-486d-b6ea-6d22d46d6378" />
 
 <img width="963" height="632" alt="image" src="https://github.com/user-attachments/assets/6af909fe-cbc4-437b-b30d-2625d01d6b77" />
